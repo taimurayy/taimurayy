@@ -1,7 +1,7 @@
 👋 Hi, I’m @taimurayy
 👀 I’m passionate about solving problems through code.
 🌱 Currently diving deep into web development, mastering the latest tools and technologies.
-💻 I work as a React.js developer, using Vite, NestJS, PostgreSQL, SQL, Next.js, and Express.
+💻 I work as a React.js developer, using Vite, NestJS, PostgreSQL, SQL, Next.js, Node js, mongo db, typescript
 📫 Connect with me on Instagram: @taimurfazliqureshi
 
 <!---
