@@ -1,7 +1,8 @@
-👋 Hi, I’m @taimurayy
-👀 I’m passionate about solving problems through code.
-🌱 Currently diving deep into web development, mastering the latest tools and technologies.
-💻 I work as a React.js developer, using Vite, NestJS, PostgreSQL, SQL, Next.js, Node js, mongo db, typescript
+👋 Hi, I'm @taimurayy
+👀 I'm passionate about solving problems through code.
+🌱 Currently getting deeper into DevOps and production infrastructure, along with web development.
+💻 I work as a Full-Stack & DevOps Engineer. Frontend: React.js, Vite, Next.js, TypeScript. Backend: Node.js, NestJS, Express. Databases: PostgreSQL, SQL, MongoDB.
+⚙️ DevOps: Jenkins, Azure, AWS, Ansible, Docker, PM2, Prometheus, Grafana
 📫 Connect with me on Instagram: @taimurfazliqureshi
 
 <!---
